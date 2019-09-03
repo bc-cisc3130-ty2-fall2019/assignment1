@@ -58,10 +58,6 @@ In each line you have the `true/false` value followed by a tab space, followed b
 
 ---
 
-## Questions/Issues
-
-Feel free to use the issue tracker for this repository ([link](https://github.com/DataMascara/cisc3130-assignment1/issues)). 
-
 ## Submission
 If possible, submit the completed work via the GitHub Classroom link. Use of this platform is still experimental, so it may or may not work. In the case that Github Classroom doesn't work - you can email me the Java source code before the deadline.  
 
@@ -73,5 +69,5 @@ I will be looking for the following characteristics amongst other critera:
 * That it works. That the Java file submitted compiles and gives an output. Should be following the expected output format. You are welcome to attach an example of input and output for me to refer to that it works for your test case(s), however I will be using my own test case with lowercase alpha characters and numbers.
 * Commenting of your code - describe the function, expected inputs, any error or exception handling. 
 * Readability is important, so is the impression you want to give on your code. Try to use good principles of naming, use of comments, spacing, etc.
-* I'll try to compile the source code with command-line, so if there's another way to compile and run do let me know.
+* I'll try to compile the source code with command-line using `javac SortInput.java` and then running with `java SortInput < input.txt`, so if there's another way to compile and run do let me know.
 
