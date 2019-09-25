@@ -33,7 +33,7 @@ a1B2C3     # after sorting, 123 should come before abc
 
 ## Running test on CLI
 
-I run the code, passing in the `[test.txt](test.txt)` input file with the linux `<` command and then output the entire result using the `>` command into `key.txt`
+I run the code, passing in the [test.txt](test.txt) input file with the linux `<` command and then output the entire result using the `>` command into `key.txt`
 
 ```
 ⋊> ~/a1 on master ⨯ javac Answer.java
